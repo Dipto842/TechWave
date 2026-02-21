@@ -1,6 +1,6 @@
 
 import './Hedar.css'
-import img from '  /Spotify.png'
+import img from '/Spotify.png'
 import img1 from '/ /clarity_email-line.png'
 const Hedar = () => {
     return (
