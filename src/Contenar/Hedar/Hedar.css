@@ -1,5 +1,5 @@
 .backroundimges{
-    background-image: url(" public/Hedar1.png");
+    background-image: url("  /Hedar1.png");
     background-size: cover;
     background-position: center;
     height: 760px;
@@ -59,7 +59,7 @@
 
 @media (max-width: 768px) {
     .backroundimges {
-      background-image: url(" public/Hedar1.png") !important;
+      background-image: url("  /Hedar1.png") !important;
       background-size: cover !important;
       background-position: center !important;
       height: 40vh !important;
@@ -83,7 +83,7 @@
 }
 @media (max-width: 480px) {
     .backroundimges {
-      background-image: url(" public/Hedar1.png") !important;
+      background-image: url("  /Hedar1.png") !important;
       background-size: cover !important;
       background-position: center !important;
       height: 20vh !important;
@@ -162,7 +162,7 @@
 }
 @media (max-width: 744px) {
     .backroundimges {
-      background-image: url(" public/Hedar1.png")!important;
+      background-image: url("  /Hedar1.png")!important;
       background-size: cover!important;
       background-position: center!important;
       height: 30vh!important;
@@ -187,7 +187,7 @@
 }
 @media (max-width: 1024px) {
     .backroundimges {
-      background-image: url(" public/Hedar1.png") !important;
+      background-image: url("  /Hedar1.png") !important;
       background-size: cover !important;
       background-position: center !important;
       height: 90vh !important;
@@ -212,7 +212,7 @@
 
 @media(max-width: 992px){
     .backroundimges {
-      background-image: url(" public/Hedar1.png") !important;
+      background-image: url("  /Hedar1.png") !important;
       background-size: cover !important;
       background-position: center !important;
       height: 34vh !important;
@@ -237,7 +237,7 @@
 
 @media (max-width: 350px) {
     .backroundimges {
-      background-image: url(" public/Hedar1.png") !important;
+      background-image: url("  /Hedar1.png") !important;
       background-size: cover !important;
       background-position: center !important;
       height: 37vh !important;
