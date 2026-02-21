@@ -1,4 +1,4 @@
-import './TheHost.css';
+import './Thehost.css';
 
 const TheHost = () => {
     return (
