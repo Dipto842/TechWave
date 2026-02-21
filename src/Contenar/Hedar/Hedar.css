@@ -1,0 +1,261 @@
+.backroundimges{
+    background-image: url("../../../public/Hedar1.png");
+    background-size: cover;
+    background-position: center;
+    height: 760px;
+    width: auto;
+}
+.round{
+     left: 37%;
+   top: 15%;
+   border-radius: 50%;
+   width: 350px;
+   height: 350px;
+   border: 2px solid #fff;
+   background: linear-gradient(90deg, #F7E93F,#FB09B4,#9100F8);
+ 
+}
+.img{
+      left: 50%;
+   top: 38%;
+}
+
+.text11{
+    position: absolute;
+    left: 33%;
+    top: 70%;
+    color: white;
+
+    
+}
+.marjin2{
+    margin-right: 50px;
+    font-size: 60px;
+    
+}
+.button{
+    width: 200px;
+    height: 40px;
+    background: linear-gradient(90deg,#F7E93F, #FB09B4 , #9100F8);
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+}
+.button1{
+    width: 147px;
+    height: 44px;
+    
+    border-radius: 50px !important;
+    color: white;
+    text-align: center;
+}
+.contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    gap: 40px;
+}
+
+@media (max-width: 768px) {
+    .backroundimges {
+      background-image: url("../../../public/Hedar1.png") !important;
+      background-size: cover !important;
+      background-position: center !important;
+      height: 40vh !important;
+      width: auto !important;
+    }
+    .round {
+      left: 30% !important;
+      top: 15% !important;
+      border-radius: 50% !important;
+      width: 170px !important;
+      height: 170px !important;
+      border: 2px solid #fff !important;
+      background: linear-gradient(90deg, #F7E93F, #FB09B4, #9100F8) !important;
+    }
+    .img {
+      left: 50% !important;
+      top: 40% !important;
+      width: 130px !important;
+      height: 130px !important;
+    }
+}
+@media (max-width: 480px) {
+    .backroundimges {
+      background-image: url("../../../public/Hedar1.png") !important;
+      background-size: cover !important;
+      background-position: center !important;
+      height: 20vh !important;
+      width: 100% !important;
+    }
+    .round {
+      left: 38% !important;
+      top: 12% !important;
+      border-radius: 50% !important;
+      width: 120px !important;
+      height: 120px!important;
+      border: 2px solid #fff !important;
+      background: linear-gradient(90deg, #F7E93F, #FB09B4, #9100F8) !important;
+    }
+    .img {
+      left: 52% !important;
+      top: 45% !important;
+      width: 90px !important;
+      height: 100px !important;
+    }
+}
+.backroundColor{
+    background-color: #230E3D;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    
+}
+.backroundColor1{
+    background-color: #1A0B2E;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    
+}
+.hedartext{
+  font-size: 48px;
+  font-weight: 700px;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+.hedarperagirap{
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400px;
+  width: 800px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 30px;
+  
+}
+.viwes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.viwesnambar{
+  font-size: 48px;
+  font-weight: 900px;
+  color: #00FF88;
+}
+.viweslist{
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400px;
+  color: #FFFFFF;
+}
+.bodar{
+  border: 1px solid #fff;
+  width: 100%;
+  height: 100%;
+  opacity: 10%;
+}
+@media (max-width: 744px) {
+    .backroundimges {
+      background-image: url("../../../public/Hedar1.png")!important;
+      background-size: cover!important;
+      background-position: center!important;
+      height: 30vh!important;
+      width: auto!important;
+    }
+    .round {
+      left: 40%!important;
+      top: 15%!important;
+      border-radius: 50%!important;
+      width: 150px!important;
+      height: 150px!important;
+      border: 2px solid #fff!important;
+      background: linear-gradient(90deg, #F7E93F, #FB09B4, #9100F8)!important;
+    }
+    .img {
+      left: 50%!important;
+      top: 40%!important;
+      width: 80px!important;
+      height: 80px!important;
+    }
+    
+}
+@media (max-width: 1024px) {
+    .backroundimges {
+      background-image: url("../../../public/Hedar1.png") !important;
+      background-size: cover !important;
+      background-position: center !important;
+      height: 90vh !important;
+      width: auto !important;
+    }
+    .round {
+      left: 38% !important;
+      top: 15% !important;
+      border-radius: 50% !important;
+      width: 250px !important;
+      height: 250px !important;
+      border: 2px solid #fff !important;
+      background: linear-gradient(90deg, #F7E93F, #FB09B4, #9100F8) !important;
+    }
+    .img {
+      left: 50% !important;
+      top: 40% !important;
+      width: 130px !important;
+      height: 130px !important;
+    }
+}
+
+@media(max-width: 992px){
+    .backroundimges {
+      background-image: url("../../../public/Hedar1.png") !important;
+      background-size: cover !important;
+      background-position: center !important;
+      height: 34vh !important;
+      width: auto !important;
+    }
+    .round {
+      left: 38% !important;
+      top: 12% !important;
+      border-radius: 50% !important;
+      width: 250px !important;
+      height: 250px !important;
+      border: 2px solid #fff !important;
+      background: linear-gradient(90deg, #F7E93F, #FB09B4, #9100F8) !important;
+    }
+    .img {
+      left: 52% !important;
+      top: 40% !important;
+      width: 150px !important;
+      height: 150px !important;
+    }
+}
+
+@media (max-width: 350px) {
+    .backroundimges {
+      background-image: url("../../../public/Hedar1.png") !important;
+      background-size: cover !important;
+      background-position: center !important;
+      height: 37vh !important;
+      width: auto !important;
+    }
+    .round {
+      left: 28% !important;
+      top: 15% !important;
+      border-radius: 50% !important;
+      width: 170px !important;
+      height: 170px !important;
+      border: 2px solid #fff !important;
+      background: linear-gradient(90deg, #F7E93F, #FB09B4, #9100F8) !important;
+    }
+    .img {
+      left: 52% !important;
+      top: 40% !important;
+      width: 100px !important;
+      height: 100px !important;
+    }
+}

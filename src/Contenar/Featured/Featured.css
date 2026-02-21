@@ -1,0 +1,32 @@
+.backroundcolor{
+    background-color: #1A0B2E;
+   overflow: hidden;
+}
+.hedarText{
+    font-size: 48px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 58px;
+}
+.marji{
+    margin-left: 281p !important
+
+  
+}
+.rounde{
+   border-radius: 0px 0px 5px 5px !important;
+}
+.pending{
+    padding-left: 200px;
+}
+.hight1{
+   
+    height: 95px;
+}
+.imges{
+    display: flex;
+  align-items: center!important;
+  
+    gap: 6px!important;
+    color: #00FF88;
+}

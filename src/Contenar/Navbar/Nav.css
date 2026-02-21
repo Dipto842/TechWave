@@ -1,0 +1,24 @@
+.navbar1{
+    background-color: #1A0B2E;
+}
+.marjin{
+    margin-left: 150px;
+}
+.marjin1{
+    margin-right: 150px;
+}
+.textColor{
+background: linear-gradient(360deg,#fa3e98, #2A186C);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+text-shadow: 
+0 px 40px #fa3e98,
+0 0px 20px #fa3e98,
+0 0px 0px #fa3e98,
+
+
+}
+.Linear{
+background: linear-gradient(90deg,#F7E93F, #FB09B4 , #9100F8);
+width: 135px;
+}
