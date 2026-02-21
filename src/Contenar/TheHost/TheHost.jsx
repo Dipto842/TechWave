@@ -1,5 +1,5 @@
 import './Thehost.css';
-import img from '/Group-10.png'
+import img from '/Group10.png'
 const TheHost = () => {
     return (
         <div className='backroundColor'>
